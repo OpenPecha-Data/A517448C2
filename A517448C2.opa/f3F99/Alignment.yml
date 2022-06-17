@@ -1,0 +1,31 @@
+segment_sources:
+  I2F71F438:
+    type: origin_type
+    relation: translation
+    language: en
+  IB27D265B:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  84fd24accbeb46cdad37a906a1ee6c29:
+    I2F71F438: 2275e272be4b4e8ca3014375f0488182
+    IB27D265B: d30d134ba83f4f19a4a4da28e6ff5892
+  e597aa077ca5403a987c12f60bcbba87:
+    I2F71F438: c18e2407de554afe8272de055e024b54
+    IB27D265B: e7a2ad3bf2e741e6af0ca5b9e7f468d8
+  8d8a1191505542adb52ce2768318b4f4:
+    I2F71F438: e2d036cff8574f2eb7c09cc5510d9d74
+    IB27D265B: 31ccaf88e9a94ae6993a9eee065ffad5
+  c7fe190496d74aae971c00c7e0a01f3b:
+    I2F71F438: 6f29d3c8861a49338c920ed704bc9b3a
+    IB27D265B: 2108e214964f403badda4582a7dc3c5c
+  3370e5e569014187bf1d3fe3aba2e745:
+    I2F71F438: 33dac136ddb247f7b57531d5b62f34b9
+    IB27D265B: 7eabf697c6d4454da40718d4e46834e3
+  5ea95e5f1ddf43fb9a747f4186463587:
+    I2F71F438: 44a9c318be0245de82cc439263e1a42e
+    IB27D265B: 219e60f0758c4d919940cf3d23b946ff
+  04f4a68d18784752aaad3ef9b2294b4d:
+    I2F71F438: d70ee2abb4ed438aabe36e2c8a88f637
+    IB27D265B: 77b0c77feed349349ebebdf97e6f620f
